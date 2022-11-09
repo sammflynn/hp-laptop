@@ -1,0 +1,3 @@
+[submodule "asus-laptop"]
+	path = asus-laptop
+	url = https://github.com/jamesholden097/asus-laptop
